@@ -1,0 +1,14 @@
+{
+    "name": "arcusys/beer",
+    "description": "Arcusys Beer",
+    "keywords": ["beer"],
+    "homepage": "http://beer.arcusys.fi",
+    "license": "Proprietary",
+    "authors" : [
+        {
+            "name": "Arcusys",
+            "email": "tuki@arcusys.fi",
+            "homepage": "http://www.arcusys.fi",
+        }
+    ]
+}

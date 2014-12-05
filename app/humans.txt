@@ -1,0 +1,11 @@
+/* TEAM */
+
+Lead: TH
+Site: www.arcusys.fi
+
+
+
+/* SITE */
+
+Standards: HTML5, CSS3
+Components: Modernizr, jQuery, Gumby
